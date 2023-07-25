@@ -1,0 +1,61 @@
+{
+  "properties": [
+    {
+      "name": "Cozy apartment in the city center",
+      "price": "$1200/month",
+      "location": "New York, NY",
+      "images": [
+        {
+          "src": "https://picsum.photos/200/300",
+          "alt": "Living room"
+        },
+        {
+          "src": "https://picsum.photos/200/300?grayscale",
+          "alt": "Kitchen"
+        },
+        {
+          "src": "https://picsum.photos/200/300?blur=2",
+          "alt": "Bedroom"
+        }
+      ]
+    },
+    {
+      "name": "Spacious villa with a pool",
+      "price": "$2500/month",
+      "location": "Los Angeles, CA",
+      "images": [
+        {
+          "src": "https://picsum.photos/200/300?random=1",
+          "alt": "Exterior"
+        },
+        {
+          "src": "https://picsum.photos/200/300?random=2",
+          "alt": "Pool"
+        },
+        {
+          "src": "https://picsum.photos/200/300?random=3",
+          "alt": "Living room"
+        }
+      ]
+    },
+    {
+      "name": "Modern studio in a quiet neighborhood",
+      "price": "$800/month",
+      "location": "Chicago, IL",
+      "images": [
+        {
+          "src": "https://picsum.photos/200/300?random=4",
+          "alt": "Entrance"
+        },
+        {
+          "src": "https://picsum.photos/200/300?random=5",
+          "alt": "Kitchen"
+        },
+        {
+          "src": "https://picsum.photos/200/300?random=6",
+          "alt": "Bathroom"
+        }
+      ]
+    }
+  ]
+}
