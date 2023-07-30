@@ -1,0 +1,33 @@
+{
+    "properties": [
+      {
+        "id": 1,
+        "title": "Cozy Apartment",
+        "location": "Nairobi, Kenya",
+        "houseTypes": "One bedroom, Single room",
+        "image": "https://images.unsplash.com/photo-1560185127-6ed189bf02f8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXBhcnRtZW50fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 2,
+        "title": "Modern Condo",
+        "location": "New York, USA",
+        "houseTypes": "Two bedrooms, Studio",
+        "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29uZG98ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 3,
+        "title": "Spacious Villa",
+        "location": "Bali, Indonesia",
+        "houseTypes": "Three bedrooms, Bungalow",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlsbGF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 4,
+        "title": "Luxury Penthouse",
+        "location": "London, UK",
+        "houseTypes": "Four bedrooms, Loft",
+        "image": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGVudGhvdXNlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      }
+    ]
+  }
+  

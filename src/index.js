@@ -4,11 +4,12 @@ import './index.css';
 import App from './App';
 import PropertyList from './components/PropertyList';
 import reportWebVitals from './reportWebVitals';
-
+import Units from './components/Units';
+import Messaging from './components/Messaging';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <PropertyList />
+    <Messaging />
   </React.StrictMode>
 );
 

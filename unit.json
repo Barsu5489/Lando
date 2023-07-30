@@ -1,0 +1,50 @@
+{
+    "unit": [
+      {
+        "id": 1,
+        "houseNumber": 101,
+        "floorNumber": 1,
+        "tenantName": "John Doe",
+        "rentAmount": 500,
+        "houseType": "One bedroom",
+        "status": "paid"
+      },
+      {
+        "id": 2,
+        "houseNumber": 102,
+        "floorNumber": 1,
+        "tenantName": "Jane Smith",
+        "rentAmount": 450,
+        "houseType": "Single room",
+        "status": "unpaid"
+      },
+      {
+        "id": 3,
+        "houseNumber": 201,
+        "floorNumber": 2,
+        "tenantName": "Bob Lee",
+        "rentAmount": 550,
+        "houseType": "One bedroom",
+        "status": "vacant"
+      },
+      {
+        "id": 4,
+        "houseNumber": 202,
+        "floorNumber": 2,
+        "tenantName": "Alice Wong",
+        "rentAmount": 500,
+        "houseType": "Single room",
+        "status": "paid"
+      },
+      {
+        "id": 5,
+        "houseNumber": 301,
+        "floorNumber": 3,
+        "tenantName": "Kenyan",
+        "rentAmount": 700,
+        "houseType": "Single room",
+        "status": "Vaccant"
+      }
+    ]
+  }
+  
