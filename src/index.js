@@ -6,10 +6,12 @@ import PropertyList from './components/PropertyList';
 import reportWebVitals from './reportWebVitals';
 import Units from './components/Units';
 import Messaging from './components/Messaging';
+import Navbar from './components/Navbar';
+import UnitDetails from './components/UnitDetails';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Messaging />
+    <UnitDetails />
   </React.StrictMode>
 );
 

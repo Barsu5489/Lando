@@ -1,0 +1,92 @@
+{
+    "properties": [
+      {
+        "id": 1,
+        "title": "Cozy Studio Apartment in the Heart of the City",
+        "location": "Nairobi, Kenya",
+        "rating": 4.5,
+        "host": "Jane",
+        "type": "Entire apartment",
+        "price": "$50/night",
+        "description": "This studio apartment is perfect for solo travelers or couples who want to enjoy the city life. It has a comfortable queen bed, a kitchenette, a bathroom, and a balcony with a stunning view of the skyline. It is located in a safe and convenient area, close to restaurants, shops, and public transport. You will have access to free Wi-Fi, cable TV, and parking.",
+        "images": [
+          "https://images.unsplash.com/photo-1564182379166-8fcfdda801bd?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3R1ZGlvJTIwYXBhcnRtZW50fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c3R1ZGlvJTIwYXBhcnRtZW50fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c3R1ZGlvJTIwYXBhcnRtZW50fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        ],
+        "amenities": [
+          "Wi-Fi",
+          "Cable TV",
+          "Parking",
+          "Kitchenette",
+          "Balcony"
+        ],
+        "rules": [
+          "No smoking",
+          "No pets",
+          "No parties or events",
+          "Check-in after 2 PM"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Spacious Family House with Garden and Pool",
+        "location": "Nairobi, Kenya",
+        "rating": 4.8,
+        "host": "John",
+        "type": "Entire house",
+        "price": "$120/night",
+        "description": "This family house is ideal for groups or families who want to relax and have fun. It has four bedrooms, three bathrooms, a living room, a dining room, a fully equipped kitchen, and a laundry room. It also has a large garden with a pool, a barbecue area, and a playground for kids. It is located in a quiet and green neighborhood, close to parks, supermarkets, and schools. You will have access to free Wi-Fi, cable TV, and garage.",
+        "images": [
+          "https://images.unsplash.com/photo-1560184897-ae75f418493e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZmFtaWx5JTIwaG91c2V8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1589834390005-5d4fb9bf3d32?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFtaWx5JTIwaG91c2V8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1570129477492-45c003edd2be?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZmFtaWx5JTIwaG91c2V8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        ],
+        "amenities": [
+          "Wi-Fi",
+          "Cable TV",
+          "Garage",
+          "Kitchen",
+          "Pool",
+          "Barbecue",
+          "Playground"
+        ],
+        "rules": [
+          "No smoking",
+          "Pets allowed",
+          "No parties or events",
+          "Check-in after 3 PM"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Modern Loft with Amazing Amenities",
+        "location": "Nairobi, Kenya",
+        "rating": 4.7,
+        "host": "Mary",
+        "type": "Private room in loft",
+        "price": "$80/night",
+        "description": "This modern loft is perfect for travelers who want to experience the urban lifestyle. It has a private bedroom with a king bed, a shared bathroom, a living room, and a kitchen. It is located in a trendy and vibrant area, close to bars, cafes, galleries, and museums. You will have access to free Wi-Fi, cable TV, and gym. You will also enjoy the rooftop terrace with a jacuzzi and a fire pit.",
+        "images": [
+          "https://images.unsplash.com/photo-1494526585095-c41746248156?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bW9kZXJuJTIwbG9mdHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bW9kZXJuJTIwbG9mdHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bW9kZXJuJTIwbG9mdHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        ],
+        "amenities": [
+          "Wi-Fi",
+          "Cable TV",
+          "Gym",
+          "Kitchen",
+          "Jacuzzi",
+          "Fire pit"
+        ],
+        "rules": [
+          "No smoking",
+          "No pets",
+          "No parties or events",
+          "Check-in after 4 PM"
+        ]
+      }
+    ]
+  }
+  
