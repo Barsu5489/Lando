@@ -29,6 +29,12 @@
       "receiver_id": 2,
       "message": "Ecommerce",
       "id": 5
+    },
+    {
+      "sender_id": 1,
+      "receiver_id": 2,
+      "message": "Good morning",
+      "id": 6
     }
   ]
 }

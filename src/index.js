@@ -8,6 +8,7 @@ import Units from './components/Units';
 import Messaging from './components/Messaging';
 import Navbar from './components/Navbar';
 import UnitDetails from './components/UnitDetails';
+import SidenavExample from './components/SidenavExample';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
