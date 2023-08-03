@@ -1,5 +1,6 @@
 import React from "react";
 import './Navbar.css'
+import { useNavigate, NavLink } from "react-router-dom";
 const Navbar = () => {
   const [isDropdownOpen, setIsDropdownOpen] = React.useState(false);
 
@@ -10,15 +11,15 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="logo">
-        <a href="#">Web Dev</a>
+      <NavLink to={"/"}>Lando</NavLink>
       </div>
       <ul className="links">
-        <li><a href="hero">Home</a></li>
-        <li><a href="about">About</a></li>
-        <li><a href="services">Services</a></li>
+        <li><NavLink to = {"/"}>houses</NavLink></li>
+        <li> <li><NavLink to = {"/messaging"}>text</NavLink></li></li>
+        {/* <li><a href="services">Profile</a></li> */}
         <li><a href="Contact">Contact</a></li>
       </ul>
-      <a href="" className="action-btn">Get started</a>
+      <a href="" className="action-btn">Rent</a>
       <div className="toggle-btn" onClick={toggleDropdown}>
         <i
           className={`fa-solid fa-bars ${
@@ -32,7 +33,7 @@ const Navbar = () => {
         <li><a href="about">About</a></li>
         <li><a href="services">Services</a></li>
         <li><a href="Contact">Contact</a></li>
-        <li> <a href="#" class="action-btn">Get started</a></li>
+        <li> <a href="#" class="action-btn">Rent</a></li>
       </div>
     </nav>
   );
