@@ -2,17 +2,17 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
-import PropertyList from './components/PropertyList';
+// import PropertyList from './components/PropertyList';
 import reportWebVitals from './reportWebVitals';
-import Units from './components/Units';
-import Messaging from './components/Messaging';
-import Navbar from './components/Navbar';
-import UnitDetails from './components/UnitDetails';
-import SidenavExample from './components/SidenavExample';
+// import Units from './components/Units';
+// import Messaging from './components/Messaging';
+// import Navbar from './components/Navbar';
+// import UnitDetails from './components/UnitDetails';
+// import SidenavExample from './components/SidenavExample';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <UnitDetails />
+    <App />
   </React.StrictMode>
 );
 

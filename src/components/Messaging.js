@@ -13,7 +13,7 @@ function Messaging() {
   // Use useEffect hook to fetch data from json-server
   useEffect(() => {
     // Use fetch or axios to make the request
-    fetch('http://localhost:3000/messages')
+    fetch('http://localhost:3002/messages')
       .then(response => response.json()) // Parse the response as JSON
       .then(data => setMessages(data)) // Set the messages data in state
       .catch(error => console.error(error)) // Handle any errors

@@ -10,7 +10,7 @@ function Units() {
   // Use useEffect hook to fetch data from localhost
   useEffect(() => {
     // Use axios or fetch to make the request
-    fetch('http://localhost:3000/unit')
+    fetch('http://localhost:3001/unit')
       .then(response => response.json()) // Parse the response as JSON
       .then(data => setUnits(data)) // Set the units data in state
       .catch(error => console.error(error)) // Handle any errors

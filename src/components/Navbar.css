@@ -23,6 +23,10 @@ li{
       align-items: center;
       justify-content: space-between;
   }
+  .navbar{
+    margin-bottom: 10rem;
+    margin-top: 2rem;
+  }
   .navbar .logo a{
       font-size: 1.5rem;
       font-weight: bold;
